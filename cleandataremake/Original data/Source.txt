@@ -1,0 +1,3 @@
+Flight booking: https://www.kaggle.com/datasets/keatonballard/synthetic-airline-passenger-and-flight-data?utm_source=chatgpt.com
+
+Weather data: https://data.meteostat.net
